@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [WebDriver]">
+  <test name="test(failed)">
+    <classes>
+      <class name="TestNG.NewMavenTest1">
+        <methods>
+          <include name="openShopAndCreateQuotation"/>
+          <include name="launch"/>
+        </methods>
+      </class> <!-- TestNG.NewMavenTest1 -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [WebDriver] -->

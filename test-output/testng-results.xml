@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriver" duration-ms="31183" started-at="2020-09-01T17:41:40Z" finished-at="2020-09-01T17:42:11Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="31183" started-at="2020-09-01T17:41:40Z" finished-at="2020-09-01T17:42:11Z">
+      <class name="TestNG.NewMavenTest1">
+        <test-method status="PASS" signature="openChromeAndLoginWebshop()[pri:0, instance:TestNG.NewMavenTest1@23ceabc1]" name="openChromeAndLoginWebshop" is-config="true" duration-ms="11348" started-at="2020-09-01T23:11:40Z" finished-at="2020-09-01T23:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChromeAndLoginWebshop -->
+        <test-method status="PASS" signature="openShopAndCreateQuotation()[pri:0, instance:TestNG.NewMavenTest1@23ceabc1]" name="openShopAndCreateQuotation" duration-ms="19762" started-at="2020-09-01T23:11:51Z" finished-at="2020-09-01T23:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openShopAndCreateQuotation -->
+        <test-method status="PASS" signature="closeChrome()[pri:0, instance:TestNG.NewMavenTest1@23ceabc1]" name="closeChrome" is-config="true" duration-ms="62" started-at="2020-09-01T23:12:11Z" finished-at="2020-09-01T23:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChrome -->
+      </class> <!-- TestNG.NewMavenTest1 -->
+    </test> <!-- test -->
+  </suite> <!-- WebDriver -->
+</testng-results>
